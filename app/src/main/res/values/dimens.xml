@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_padding_horizontal">16dp</dimen>
+    <dimen name="picture_width">120dp</dimen>
+    <dimen name="picture_height">120dp</dimen>
+    <dimen name="picture_width1">240dp</dimen>
+    <dimen name="picture_height1">240dp</dimen>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    app:popupTheme="@style/AboutAuthor">
+
+    <item
+        android:id="@+id/author"
+        android:title="@string/about_author"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/slow"
+        android:title="@string/settings"
+        android:visible="true"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/fast"
+        android:title="@string/fast"
+        android:visible="true"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/normal"
+        android:title="@string/normal"
+        android:visible="true"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/sort"
+        android:title="@string/sort_list_by_author"
+        android:visible="true"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/sort1"
+        android:title="@string/sort_by_title"
+        android:visible="true"
+        app:showAsAction="never" />
+
+</menu>

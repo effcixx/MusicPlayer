@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Muzyka</string>
+    <string name="shuffle_off">shufe</string>
+    <string name="shuffle_on">dhufleon</string>
+    <string name="about_author">About author</string>
+    <string name="settings">Slow</string>
+    <string name="ewa_yko">EWA ŁYKO</string>
+    <string name="fast">Fast</string>
+    <string name="normal">Normal</string>
+    <string name="sort_list_by_author">Sort list by author</string>
+    <string name="sort_by_title">Sort by title</string>
+</resources>
